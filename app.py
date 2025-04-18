@@ -13,8 +13,8 @@ DATASET_DIR = "sample_datasets"
 # Preloaded datasets
 built_in_datasets = {
     "Web Logs": os.path.join(DATASET_DIR, "web_logs.csv"),
-    "DB Logs": os.path.join(DATASET_DIR, "db_logs.csv"),
-    "File Logs": os.path.join(DATASET_DIR, "file_logs.csv")
+    #"DB Logs": os.path.join(DATASET_DIR, "db_logs.csv"),
+    #"File Logs": os.path.join(DATASET_DIR, "file_logs.csv")
 }
 
 # Sidebar - Choose dataset
